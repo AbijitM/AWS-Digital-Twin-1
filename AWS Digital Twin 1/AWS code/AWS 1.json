@@ -1,0 +1,11 @@
+{
+    "Effect": "Allow",
+    "Action": [
+        "iot:Publish",
+        "iot:Subscribe",
+        "iot:Connect",
+        "iot:Receive"
+    ],
+    "Resource": "*"
+  }
+  
